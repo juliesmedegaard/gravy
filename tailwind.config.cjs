@@ -4,8 +4,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'neon-pink': '#D926A9',
-        'sort': '#2B2B2B'
+        'dark-green': '#1A2118',
+        'green': '#3B4A1F',
+        'orange': '#D9843B',
+        'beige': '#EFD7B4',
+        'light-beige': '#F1E6E1'
       },
       fontFamily: {
         'sofachrome': 'sofachrome, sans-serif'
